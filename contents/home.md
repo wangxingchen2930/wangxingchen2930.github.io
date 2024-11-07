@@ -1,16 +1,17 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+Xingchen is a Ph.D. student under the supervision of [Dr. Lu Su](https://engineering.purdue.edu/~lusu/) in the department of [Electrical and Computer engineering](https://engineering.purdue.edu/ECE) at [Purdue university](https://www.purdue.edu/). Before Ph.D. study, he got his Master of Science degree in ECE from [Carnegie Mellon University](https://www.cmu.edu/) and got his Bachelor of Science degree in Computer Engineering from [Purdue university](https://www.purdue.edu/).
 
 #### Email
-sli[at]cumt.edu.cn
+wang2930[at]purdue.edu
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+
+Ph.D in Computer Engineering, Purdue University, 2026 (expected). \
+M.S. in Electrical and Computer Engineering, Carnegie Mellon University, 2021. \
+B.S. in Computer Engineering, Purdue University, 2019.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Internet of Things, Wireless Sensing, and Machine Learning.
 

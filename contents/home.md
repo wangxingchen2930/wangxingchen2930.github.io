@@ -1,5 +1,6 @@
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="24" height="24">](https://www.linkedin.com/in/xingchen-wang-95570b148/)
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="24" height="24">](https://x.com/Xingchen0014)
 
 Xingchen is a Ph.D. student under the supervision of [Dr. Lu Su](https://engineering.purdue.edu/~lusu/) in the department of [Electrical and Computer Engineering](https://engineering.purdue.edu/ECE) at [Purdue University](https://www.purdue.edu/). Before Ph.D. study, he got his Master of Science degree in ECE from [Carnegie Mellon University](https://www.cmu.edu/) and got his Bachelor of Science degree in Computer Engineering from [Purdue University](https://www.purdue.edu/).
 

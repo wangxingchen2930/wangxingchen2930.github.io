@@ -1,4 +1,4 @@
-- Top 10% employee recognition, Purdue University, 2024.
+- Top 10% Employee Recognition, Purdue University, 2024.
 
 - Undergraduate Research Award, NSF SaTC PI Meeting, 2019.
 

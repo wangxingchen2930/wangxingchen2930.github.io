@@ -8,10 +8,10 @@ wang2930[at]purdue.edu
 
 #### Education
 
-Ph.D in Computer Engineering, Purdue University, 2026 (expected). \
+Ph.D in Electrical and Computer Engineering, Purdue University, 2026 (expected). \
 M.S. in Electrical and Computer Engineering, Carnegie Mellon University, 2021. \
 B.S. in Computer Engineering, Purdue University, 2019.
 
 #### Research Interests
-Internet of Things, Wireless Sensing, and Machine Learning.
+Wireless Sensing, Sensor Fusion, Multi-modal Learning and Federated Learning.
 

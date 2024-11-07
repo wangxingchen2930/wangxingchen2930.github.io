@@ -1,9 +1,7 @@
-- First-prize Academic Scholarship, 2023.
+- Top 10% employee recognition, Purdue University, 2024.
 
-- Freshman Academic Scholarship, 2022.
+- Undergraduate Research Award, NSF SaTC PI Meeting, 2019.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- Eli Shay Scholarship, Purdue University, 2018.
 
-- First-prize Enterprise Scholarship, 2021.
-
-- First-prize Academic Scholarship, 2019.
+- Summer Undergraduate Research Fellowship, Purdue University， 2018。

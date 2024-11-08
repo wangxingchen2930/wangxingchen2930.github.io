@@ -4,4 +4,4 @@
 
 - Eli Shay Scholarship, Purdue University, 2018.
 
-- Summer Undergraduate Research Fellowship, Purdue University， 2018。
+- Summer Undergraduate Research Fellowship, Purdue University, 2018。

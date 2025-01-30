@@ -2,7 +2,7 @@
 
 <strong>Federated Learning:</strong>
 
-- Feijie Wu, Xiaoze Liu, Haoyu Wang, <strong>Xingchen Wang</strong>, Lu Su, Jing Gao, ”Towards Federated RLHF with Aggregated Client Preference for LLMs.” <strong>International Conference on Learning Representations (ICLR), 2025.</strong> [[Paper]](https://openreview.net/pdf?id=mqNKiEB6pd)
+- Feijie Wu, Xiaoze Liu, Haoyu Wang, <strong>Xingchen Wang</strong>, Lu Su, Jing Gao, ”Towards Federated RLHF with Aggregated Client Preference for LLMs.” <strong>International Conference on Learning Representations (ICLR), 2025.</strong> [[Paper]](https://arxiv.org/pdf/2407.03038)
 
 - Feijie Wu, <strong>Xingchen Wang</strong>, Yaqing Wang, Tianci Liu, Lu Su, Jing Gao, ”FIARSE: Model-Heterogeneity Federated Learning via Importance-Aware Submodel Extraction.” <strong>Advances in Neural Information Processing Systems (NeurIPS), 2024.</strong> [[Paper]](https://arxiv.org/pdf/2407.19389)
 

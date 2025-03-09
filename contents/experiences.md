@@ -1,3 +1,4 @@
 
-- **Nokia Bell Lab, Murray Hill, NJ** <span style="float:right;">*Jun. 2025 – Aug. 2025*</span>  
-*Research Intern*
+- **Nokia Bell Labs, Murray Hill, NJ**, *Jun. 2025 – Aug. 2025*
+    
+    *Research Intern*

@@ -11,7 +11,7 @@
 
 <strong>Wireless Sensing:</strong>
 
-- Shiyang Wang, Henglin Pu, Wenjun Jiang, Qiming Cao, <strong>Xingchen Wang</strong>, Tianci Liu, Zhengxin Jiang,  Hongfei Xue, Lu Su, ”RAM-Hand: Robust Acoustic Multi-Hand Pose Reconstruction Using a Microphone Array.” <strong>ACM Conference on Embedded Networked Sensor Systems (SenSys), 2025.</strong> (Accepted)
+- Shiyang Wang, Henglin Pu, Wenjun Jiang, Qiming Cao, <strong>Xingchen Wang</strong>, Tianci Liu, Zhengxin Jiang,  Hongfei Xue, Lu Su, ”RAM-Hand: Robust Acoustic Multi-Hand Pose Reconstruction Using a Microphone Array.” <strong>ACM Conference on Embedded Networked Sensor Systems (SenSys), 2025.</strong> [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3715014.3722055)
 
 - Qiming Cao, Hongfei Xue, Tianci Liu, <strong>Xingchen Wang</strong>, Haoyu Wang, Xincheng Zhang, Lu Su, ”mmCLIP: Boosting mmWave-based Zero-shot HAR via Signal-Text Alignment.” <strong>ACM Conference on Embedded Networked Sensor Systems (SenSys), 2024.</strong> [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3666025.3699331)
 

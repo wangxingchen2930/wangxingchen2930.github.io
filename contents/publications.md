@@ -19,7 +19,7 @@
 
 <strong>Miscellaneous:</strong>
 
-- Woei-chyi Chang, <strong>Xingchen Wang</strong>, Tianheng Zhu, Johnson D Adetooto, Lu Su, Yiheng Feng, Behzad Esmaeili, Sogand Hasanzadeh, "Digital Twin for Detecting Worker Violations in Road Construction Work Zones", <strong>ASCE International Conference on Computing in Civil Engineering (i3CE), 2025.</strong> (Accepted)
+- Woei-chyi Chang, <strong>Xingchen Wang</strong>, Tianheng Zhu, Johnson D Adetooto, Lu Su, Yiheng Feng, Behzad Esmaeili, Sogand Hasanzadeh, "Digital Twin for Detecting Worker Geofence Violations in Road Construction Work Zones", <strong>ASCE International Conference on Computing in Civil Engineering (i3CE), 2025.</strong> (Accepted)
 
 - <strong>Xingchen Wang</strong>, Mustafa Abdallah, Saurabh Bagchi, ”Vulnerability Analysis for Security Resource Allocation Problem via Penetration Testing.” <strong>The 7th Annual Computer Security Applications Conference (ACSAC) Workshop on Research for Insider Threats, 2022.</strong> [[Paper]](https://www.acsac.org/2022/workshops/writ/WRIT_2022_paper_2567-Wang.pdf)
 

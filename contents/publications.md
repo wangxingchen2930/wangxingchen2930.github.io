@@ -1,8 +1,13 @@
 (* indicates equal contributions)
 
-<strong>Federated Learning:</strong>
+<strong>LLM:</strong>
+
+- Tianchun Li, Tianci Liu, <strong>Xingchen Wang</strong>, Rongzhe Wei, Pan Li, Lu Su, Jing Gao, "Towards Universal Debiasing for Language Models-based Tabular Data Generation." <strong>In Findings of the Association for Computational Linguistics (EMNLP), 2025. </strong> (Accepted)
 
 - Feijie Wu, Xiaoze Liu, Haoyu Wang, <strong>Xingchen Wang</strong>, Lu Su, Jing Gao, ”Towards Federated RLHF with Aggregated Client Preference for LLMs.” <strong>International Conference on Learning Representations (ICLR), 2025.</strong> [[Paper]](https://arxiv.org/pdf/2407.03038)
+
+
+<strong>Federated Learning:</strong>
 
 - Feijie Wu, <strong>Xingchen Wang</strong>, Yaqing Wang, Tianci Liu, Lu Su, Jing Gao, ”FIARSE: Model-Heterogeneity Federated Learning via Importance-Aware Submodel Extraction.” <strong>Advances in Neural Information Processing Systems (NeurIPS), 2024.</strong> [[Paper]](https://arxiv.org/pdf/2407.19389)
 

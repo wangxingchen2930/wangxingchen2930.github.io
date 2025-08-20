@@ -16,5 +16,5 @@ M.S. in Electrical and Computer Engineering, Carnegie Mellon University, 2021. \
 B.S. (with highest distinction) in Computer Engineering, Purdue University, 2019. 
 
 #### Research Interests
-Wireless Sensing, Sensor Fusion, Multi-modal Learning and Federated Learning.
+Wireless Sensing, Sensor Fusion, Multi-modal Learning, Federated Learning and LLM.
 

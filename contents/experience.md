@@ -1,4 +1,4 @@
 
 - <strong>Nokia Bell Labs</strong>, Murray Hill, NJ, Jun. 2025 – Aug. 2025
     
-    Research Intern: Energy-Efficient Indoor Localization Fusion
+    Research Intern: Indoor Localization Fusion

@@ -1,6 +1,10 @@
-- <strong>Reviewer</strong>
+- <strong>Conference Paper Reviewer</strong>
 
-    MobiCom, KDD, INFOCOM, MobiSys, SenSys, IMWUT, WWW, ICDCS
+    KDD, MobiCom, INFOCOM, MobiSys, SenSys, WWW, ICDCS
+
+- <strong>Journal Paper Reviewer</strong>
+
+    TMC, IMWUT
 
 - <strong>Student Representative of ECE Department</strong>
 

@@ -4,7 +4,7 @@
 
 - <strong>Journal Paper Reviewer</strong>
 
-    TMC, IMWUT
+    TMC, IMWUT, IoT-J
 
 - <strong>Student Representative of ECE Department</strong>
 

@@ -2,7 +2,7 @@
 
 <strong>LLM:</strong>
 
-- Tianchun Li, Tianci Liu, <strong>Xingchen Wang</strong>, Rongzhe Wei, Pan Li, Lu Su, Jing Gao, "Towards Universal Debiasing for Language Models-based Tabular Data Generation." <strong>In Findings of the Association for Computational Linguistics (EMNLP), 2025. </strong> (Accepted)
+- Tianchun Li, Tianci Liu, <strong>Xingchen Wang</strong>, Rongzhe Wei, Pan Li, Lu Su, Jing Gao, "Towards Universal Debiasing for Language Models-based Tabular Data Generation." <strong>In Findings of the Association for Computational Linguistics (EMNLP), 2025. </strong> [[Paper]](https://arxiv.org/pdf/2509.16475)
 
 - Feijie Wu, Xiaoze Liu, Haoyu Wang, <strong>Xingchen Wang</strong>, Lu Su, Jing Gao, ”Towards Federated RLHF with Aggregated Client Preference for LLMs.” <strong>International Conference on Learning Representations (ICLR), 2025.</strong> [[Paper]](https://arxiv.org/pdf/2407.03038)
 

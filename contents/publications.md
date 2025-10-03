@@ -9,7 +9,7 @@
 
 <strong>Federated Learning:</strong>
 
-- <strong>Xingchen Wang</strong>, Feijie Wu, Chenglin Miao, Tianchun Li, Haoyu Hu, Qiming Cao, Jing Gao, Lu Su, "Towards Privacy-Preserving and Heterogeneity-aware Split Federated Learning via Probabilistic Masking." Preprint, 2025. [[Paper]](https://arxiv.org/pdf/2509.14603)
+- <strong>Xingchen Wang*</strong>, Feijie Wu*, Chenglin Miao, Tianchun Li, Haoyu Hu, Qiming Cao, Jing Gao, Lu Su, "Towards Privacy-Preserving and Heterogeneity-aware Split Federated Learning via Probabilistic Masking." Preprint, 2025. [[Paper]](https://arxiv.org/pdf/2509.14603)
 
 
 - Feijie Wu, <strong>Xingchen Wang</strong>, Yaqing Wang, Tianci Liu, Lu Su, Jing Gao, ”FIARSE: Model-Heterogeneity Federated Learning via Importance-Aware Submodel Extraction.” <strong>Advances in Neural Information Processing Systems (NeurIPS), 2024.</strong> [[Paper]](https://arxiv.org/pdf/2407.19389)

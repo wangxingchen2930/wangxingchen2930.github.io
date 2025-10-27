@@ -1,10 +1,14 @@
+- <strong>Program Committee Member</strong>
+
+    BigData'25
+
+- <strong>Journal Reviewer</strong>
+
+    TMC, TOSN, IMWUT, AIIM, IoT-J
+
 - <strong>Conference Paper Reviewer</strong>
 
     KDD, MobiCom, INFOCOM, MobiSys, SenSys, WWW, ICDCS
-
-- <strong>Journal Paper Reviewer</strong>
-
-    TMC, TOSN, IMWUT, IoT-J
 
 - <strong>Student Representative of ECE Department</strong>
 

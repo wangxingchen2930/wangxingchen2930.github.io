@@ -4,7 +4,7 @@
 
 - <strong>Journal Reviewer</strong>
 
-    TMC, TOSN, IMWUT, AIIM, IoT-J
+    TMC, TOSN, IMWUT, AIIM, TAI, IoT-J
 
 - <strong>Conference Paper Reviewer</strong>
 

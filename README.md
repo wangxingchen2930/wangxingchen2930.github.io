@@ -47,6 +47,24 @@ The directory structure is as follows:
 
 (2) Modify the content of each section, which corresponds to `contents/*.md`.
 
+### Adding PDFs
+
+To make a PDF publicly available on your site, put the PDF file in `static/assets/pdfs/` (create the folder if it doesn't exist). Example: `static/assets/pdfs/resume.pdf`.
+
+Link to it from your markdown using the relative path, for example:
+
+```
+[Download my CV](static/assets/pdfs/resume.pdf)
+```
+
+Or embed it directly in a markdown file using HTML:
+
+```
+<iframe src="static/assets/pdfs/resume.pdf" width="100%" height="600"></iframe>
+```
+
+After adding the file and committing, push to GitHub; the PDF will be served by GitHub Pages.
+
 (3) Adjust the title, copyright information, and other text of the website in `contents/config.yml`
 
 (4) Replace background image and photo with new ones for your web pages in `static/assets/img/`

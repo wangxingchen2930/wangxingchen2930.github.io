@@ -1,6 +1,6 @@
 - <strong>Program Committee Member</strong>
 
-    BigData'25
+    BigData 2025, 2026
 
 - <strong>Journal Reviewer</strong>
 

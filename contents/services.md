@@ -2,6 +2,10 @@
 
     BigData 2025, 2026
 
+- <strong>Artifact Evaluation Committee Member</strong>
+
+    KDD 2026
+
 - <strong>Journal Reviewer</strong>
 
     TMC, TOSN, IMWUT, AIIM, TAI, IoT-J

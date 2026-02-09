@@ -4,6 +4,10 @@
 
     KDD (AI for Sciences Track) 2026
 
+- <strong>Conference Artifact Evaluation Committee Member</strong>
+
+    KDD 2026
+
 - <strong>Journal Reviewer</strong>
 
     ACM Transactions on Sensor Networks (TOSN)
@@ -17,10 +21,6 @@
     IEEE Internet of Things Journal (IoT-J)
 
     Artificial Intelligence in Medicine (AIIM)
-
-- <strong>Conference Artifact Evaluation Committee Member</strong>
-
-    KDD 2026
 
 <!-- - <strong>Conference Paper Reviewer</strong>
 

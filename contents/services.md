@@ -14,9 +14,11 @@
 
     ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
 
-    IEEE Transactions on Mobile Computing (TMC)
+    IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 
     IEEE Transactions on Artificial Intelligence (TAI)
+
+    IEEE Transactions on Mobile Computing (TMC)
 
     IEEE Internet of Things Journal (IoT-J)
 

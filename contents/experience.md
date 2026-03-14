@@ -1,7 +1,11 @@
 
+- <strong>Nvidia</strong>, Santa Clara, CA, Sept. 2026 – Dec. 2026
+    
+    PhD Intern: Multi-Sensor Perception, Autonomous Vehicles
+
 - <strong>Adobe Research</strong>, College Park, MD, May. 2026 – Aug. 2026
     
-    Research Intern: On-device Language Model
+    Research Intern: On-Device Language Model
 
 - <strong>Nokia Bell Labs</strong>, Murray Hill, NJ, Jun. 2025 – Aug. 2025
     

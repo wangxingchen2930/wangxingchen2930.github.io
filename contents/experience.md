@@ -1,5 +1,5 @@
 
-- <strong>Nvidia</strong>, Santa Clara, CA, Sept. 2026 – Dec. 2026
+- <strong>NVIDIA Corporation</strong>, Santa Clara, CA, Sept. 2026 – Dec. 2026
     
     PhD Intern: Multi-Sensor Perception, Autonomous Vehicles
 

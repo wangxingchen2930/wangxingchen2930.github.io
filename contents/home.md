@@ -11,9 +11,17 @@ wang2930[at]purdue.edu
 
 #### Education
 
-Ph.D in Electrical and Computer Engineering, Purdue University, 2026 (expected). \
-M.S. in Electrical and Computer Engineering, Carnegie Mellon University, 2021. \
-B.S. (with highest distinction) in Computer Engineering, Purdue University, 2019. 
+<div class="education-wrapper">
+<div class="education-lines">
+<p>Ph.D in Electrical and Computer Engineering, Purdue University, 2026 (expected).</p>
+<p>M.S. in Electrical and Computer Engineering, Carnegie Mellon University, 2021.</p>
+<p>B.S. (with highest distinction) in Computer Engineering, Purdue University, 2019.</p>
+</div>
+<div class="education-logos" aria-label="Education logos">
+<img src="/static/assets/img/Purdue.png" alt="Purdue University logo" title="Purdue University" class="education-logo education-logo-purdue" />
+<img src="/static/assets/img/CarnegieMellonUniversity.png" alt="Carnegie Mellon University logo" title="Carnegie Mellon University" class="education-logo education-logo-cmu" />
+</div>
+</div>
 
 #### Research Interests
 Wireless Sensing, Sensor Fusion, Multi-modal Learning, Federated Learning and LLM.

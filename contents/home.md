@@ -24,5 +24,5 @@ wang2930[at]purdue.edu
 </div>
 
 #### Research Interests
-Wireless Sensing, Sensor Fusion, Multi-modal Learning, Federated Learning and LLM.
+Wireless Sensing, Sensor Fusion, Federated Learning, Multi-Modality and On-Device Intelligence.
 

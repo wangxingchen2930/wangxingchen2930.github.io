@@ -1,6 +1,6 @@
 (* indicates equal contributions)
 
-<strong>LLM:</strong>
+<strong>(Multi-Modal) Language Model:</strong>
 
 - Tianchun Li, Tianci Liu, <strong>Xingchen Wang</strong>, Rongzhe Wei, Pan Li, Lu Su, Jing Gao, "Towards Universal Debiasing for Language Models-based Tabular Data Generation." <strong>In Findings of the Association for Computational Linguistics (EMNLP), 2025. </strong> [[Paper]](https://arxiv.org/pdf/2509.16475)
 

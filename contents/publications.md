@@ -2,7 +2,7 @@
 
 <strong>(Multi-Modal) Language Model:</strong>
 
-- Tianchun Li, Haochen Liu, Vishwa Pardeshi, <strong>Xingchen Wang</strong>, Tianci Liu, Huijun Zhao, Wei Fan, Jing Gao, "LegalDrill: Diagnosis-Driven Synthesis for Legal Reasoning in Small Language Models." <strong>In Proceedings of the Association for Computational Linguistics (ACL) Industry Track, 2026. </strong> (Accepted) 
+- Tianchun Li, Haochen Liu, Vishwa Pardeshi, <strong>Xingchen Wang</strong>, Tianci Liu, Huijun Zhao, Wei Fan, Jing Gao, "LegalDrill: Diagnosis-Driven Synthesis for Legal Reasoning in Small Language Models." <strong>In Proceedings of the Association for Computational Linguistics (ACL) Industry Track, 2026. </strong> [[Paper]](https://arxiv.org/pdf/2604.23809) 
 
 - Tianchun Li, Tianci Liu, <strong>Xingchen Wang</strong>, Rongzhe Wei, Pan Li, Lu Su, Jing Gao, "Towards Universal Debiasing for Language Models-based Tabular Data Generation." <strong>In Findings of the Association for Computational Linguistics (EMNLP), 2025. </strong> [[Paper]](https://arxiv.org/pdf/2509.16475)
 

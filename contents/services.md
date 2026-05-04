@@ -4,6 +4,8 @@
 
     KDD (AI for Sciences Track) 2026
 
+    ICML (AI for Law Workshop) 2026
+
 - <strong>Conference Artifact Evaluation Committee Member</strong>
 
     KDD 2026

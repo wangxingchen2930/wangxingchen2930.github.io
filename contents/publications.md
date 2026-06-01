@@ -1,13 +1,18 @@
 (* indicates equal contributions)
 
-<strong>LLM:</strong>
+<strong>(Multi-Modal) Language Model:</strong>
 
-- Tianchun Li, Tianci Liu, <strong>Xingchen Wang</strong>, Rongzhe Wei, Pan Li, Lu Su, Jing Gao, "Towards Universal Debiasing for Language Models-based Tabular Data Generation." <strong>In Findings of the Association for Computational Linguistics (EMNLP), 2025. </strong> (Accepted)
+- Tianchun Li, Haochen Liu, Vishwa Pardeshi, <strong>Xingchen Wang</strong>, Tianci Liu, Huijun Zhao, Wei Fan, Jing Gao, "LegalDrill: Diagnosis-Driven Synthesis for Legal Reasoning in Small Language Models." <strong>In Proceedings of the Association for Computational Linguistics (ACL) Industry Track, 2026. </strong> [[Paper]](https://arxiv.org/pdf/2604.23809) 
+
+- Tianchun Li, Tianci Liu, <strong>Xingchen Wang</strong>, Rongzhe Wei, Pan Li, Lu Su, Jing Gao, "Towards Universal Debiasing for Language Models-based Tabular Data Generation." <strong>In Findings of the Association for Computational Linguistics (EMNLP), 2025. </strong> [[Paper]](https://arxiv.org/pdf/2509.16475)
 
 - Feijie Wu, Xiaoze Liu, Haoyu Wang, <strong>Xingchen Wang</strong>, Lu Su, Jing Gao, ”Towards Federated RLHF with Aggregated Client Preference for LLMs.” <strong>International Conference on Learning Representations (ICLR), 2025.</strong> [[Paper]](https://arxiv.org/pdf/2407.03038)
 
 
 <strong>Federated Learning:</strong>
+
+- <strong>Xingchen Wang*</strong>, Feijie Wu*, Chenglin Miao, Tianchun Li, Haoyu Hu, Qiming Cao, Jing Gao, Lu Su, "Towards Privacy-Preserving and Heterogeneity-aware Split Federated Learning via Probabilistic Masking." <strong>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026.</strong> [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3770854.3780255)
+
 
 - Feijie Wu, <strong>Xingchen Wang</strong>, Yaqing Wang, Tianci Liu, Lu Su, Jing Gao, ”FIARSE: Model-Heterogeneity Federated Learning via Importance-Aware Submodel Extraction.” <strong>Advances in Neural Information Processing Systems (NeurIPS), 2024.</strong> [[Paper]](https://arxiv.org/pdf/2407.19389)
 
@@ -24,7 +29,9 @@
 
 <strong>Miscellaneous:</strong>
 
-- Woei-chyi Chang, <strong>Xingchen Wang</strong>, Tianheng Zhu, Johnson D Adetooto, Lu Su, Yiheng Feng, Behzad Esmaeili, Sogand Hasanzadeh, "Digital Twin for Detecting Worker Geofence Violations in Road Construction Work Zones", <strong>ASCE International Conference on Computing in Civil Engineering (i3CE), 2025.</strong> (Accepted)
+- Woei-Chyi Chang, Tianheng Zhu, <strong>Xingchen Wang</strong>, Johnson D. Adetooto, Nathan Weston, Yiheng Feng, Lu Su, Behzad Esmaeili, Sogand Hasanzadeh, "Development of an Integrated Smart Work Zone for Proactive Intrusion Detection and Warning", <strong>Transportation Research Board (TRB) Annual Meeting, 2026. </strong> (Accepted) 
+
+- Woei-chyi Chang, <strong>Xingchen Wang</strong>, Tianheng Zhu, Johnson D Adetooto, Lu Su, Yiheng Feng, Behzad Esmaeili, Sogand Hasanzadeh, "Digital Twin for Detecting Worker Geofence Violations in Road Construction Work Zones", <strong>ASCE International Conference on Computing in Civil Engineering (i3CE), 2025.</strong> [[Paper]](https://ascelibrary.org/doi/abs/10.1061/9780784486443.098)
 
 - <strong>Xingchen Wang</strong>, Mustafa Abdallah, Saurabh Bagchi, ”Vulnerability Analysis for Security Resource Allocation Problem via Penetration Testing.” <strong>The 7th Annual Computer Security Applications Conference (ACSAC) Workshop on Research for Insider Threats, 2022.</strong> [[Paper]](https://www.acsac.org/2022/workshops/writ/WRIT_2022_paper_2567-Wang.pdf)
 

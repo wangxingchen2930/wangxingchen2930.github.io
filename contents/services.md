@@ -1,6 +1,34 @@
-- <strong>Reviewer</strong>
+- <strong>Conference Program Committee Member / Reviewer</strong>
 
-    MobiCom, KDD, INFOCOM, MobiSys, SenSys, IMWUT, WWW, ICDCS
+    BigData 2025, 2026
+
+    KDD (AI for Sciences Track) 2026
+
+    ICML (AI for Law Workshop) 2026
+
+- <strong>Conference Artifact Evaluation Committee Member</strong>
+
+    KDD 2026
+
+- <strong>Journal Reviewer</strong>
+
+    ACM Transactions on Sensor Networks (TOSN)
+
+    ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
+
+    IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+
+    IEEE Transactions on Artificial Intelligence (TAI)
+
+    IEEE Transactions on Mobile Computing (TMC)
+
+    IEEE Internet of Things Journal (IoT-J)
+
+    Artificial Intelligence in Medicine (AIIM)
+
+<!-- - <strong>Conference Paper Reviewer</strong>
+
+    KDD, MobiCom, INFOCOM, MobiSys, SenSys, WWW, ICDCS -->
 
 - <strong>Student Representative of ECE Department</strong>
 

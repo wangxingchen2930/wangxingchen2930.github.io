@@ -103,6 +103,68 @@ section .main-body{
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
 }
 
+.education-wrapper {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-top: 0.6rem;
+    margin-bottom: 1rem;
+    width: 100%;
+}
+
+.education-lines {
+    flex: 1 1 0;
+    min-width: 220px;
+    line-height: 1.6;
+}
+
+.education-lines p {
+    margin: 0.15rem 0;
+}
+
+.education-logos {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    gap: 0.5rem;
+    flex: 0 0 auto;
+    margin-left: 0.5rem;
+}
+
+.education-logo {
+    width: 80px;
+    height: auto;
+    object-fit: contain;
+    border-radius: 5px;
+    background: transparent;
+    box-shadow: none;
+}
+
+.education-logo-purdue {
+    align-self: flex-start;
+    margin-top: -4.0rem;
+}
+
+.education-logo-cmu {
+    align-self: flex-start;
+    margin-top: 0.4rem;
+}
+
+@media screen and (max-width: 900px) {
+    .education-wrapper {
+        display: block;
+    }
+    .education-logos {
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 0.5rem;
+        margin-top: 0.5rem;
+    }
+}
+
 @media screen and (max-width: 991px) {
     #avatar {
         margin: 0;

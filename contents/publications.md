@@ -11,7 +11,7 @@
 
 <strong>Federated Learning:</strong>
 
-- <strong>Xingchen Wang*</strong>, Feijie Wu*, Chenglin Miao, Tianchun Li, Haoyu Hu, Qiming Cao, Jing Gao, Lu Su, "Towards Privacy-Preserving and Heterogeneity-aware Split Federated Learning via Probabilistic Masking." <strong>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026.</strong> [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3770854.3780255)
+- <strong>Xingchen Wang*</strong>, Feijie Wu*, Chenglin Miao, Tianchun Li, Haoyu Hu, Qiming Cao, Jing Gao, Lu Su, "Towards Privacy-Preserving and Heterogeneity-aware Split Federated Learning via Probabilistic Masking." <strong>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026.</strong> [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3770854.3780255) (<strong style="color:red;">Oral Presentation</strong>)
 
 
 - Feijie Wu, <strong>Xingchen Wang</strong>, Yaqing Wang, Tianci Liu, Lu Su, Jing Gao, ”FIARSE: Model-Heterogeneity Federated Learning via Importance-Aware Submodel Extraction.” <strong>Advances in Neural Information Processing Systems (NeurIPS), 2024.</strong> [[Paper]](https://arxiv.org/pdf/2407.19389)
@@ -21,7 +21,7 @@
 
 <strong>Wireless Sensing:</strong>
 
-- Shiyang Wang, Henglin Pu, Qiming Cao, Wenjun Jiang, <strong>Xingchen Wang</strong>, Tianci Liu, Zhengxin Jiang,  Hongfei Xue, Lu Su, ”RAM-Hand: Robust Acoustic Multi-Hand Pose Reconstruction Using a Microphone Array.” <strong>ACM Conference on Embedded Networked Sensor Systems (SenSys), 2025.</strong> [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3715014.3722055) (<strong style="color:red;">Best Paper Award</strong>)
+- Shiyang Wang, Henglin Pu, Qiming Cao, Wenjun Jiang, <strong>Xingchen Wang</strong>, Tianci Liu, Zhengxin Jiang,  Hongfei Xue, Lu Su, ”RAM-Hand: Robust Acoustic Multi-Hand Pose Reconstruction Using a Microphone Array.” <strong>ACM Conference on Embedded Networked Sensor Systems (SenSys), 2025.</strong> [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3715014.3722055) (<strong style="color:red;">Best Paper Award; Highlighted in ACM GetMobile 2026</strong>)
 
 - Qiming Cao, Hongfei Xue, Tianci Liu, <strong>Xingchen Wang</strong>, Haoyu Wang, Xincheng Zhang, Lu Su, ”mmCLIP: Boosting mmWave-based Zero-shot HAR via Signal-Text Alignment.” <strong>ACM Conference on Embedded Networked Sensor Systems (SenSys), 2024.</strong> [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3666025.3699331)
 

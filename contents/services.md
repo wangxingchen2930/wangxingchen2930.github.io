@@ -2,7 +2,7 @@
 
     BigData 2025, 2026
 
-    KDD (AI for Sciences Track) 2026
+    KDD (AI for Sciences Track) 2026, 2027
 
     ICML (AI for Law Workshop) 2026
 

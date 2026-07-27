@@ -13,7 +13,7 @@ wang2930[at]purdue.edu
 
 <div class="education-wrapper">
 <div class="education-lines">
-<p>Ph.D in Electrical and Computer Engineering, Purdue University, 2026 (expected).</p>
+<p>Ph.D in Electrical and Computer Engineering, Purdue University, 2027.</p>
 <p>M.S. in Electrical and Computer Engineering, Carnegie Mellon University, 2021.</p>
 <p>B.S. (with highest distinction) in Computer Engineering, Purdue University, 2019.</p>
 </div>

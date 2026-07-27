@@ -20,6 +20,8 @@
 
     IEEE Transactions on Artificial Intelligence (TAI)
 
+    IEEE Transactions on Intelligent Vehicles (T-IV)
+
     IEEE Transactions on Mobile Computing (TMC)
 
     IEEE Internet of Things Journal (IoT-J)

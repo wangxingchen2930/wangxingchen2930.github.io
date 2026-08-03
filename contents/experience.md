@@ -10,7 +10,7 @@
 <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; margin-bottom: 1rem;">
   <div>
     <strong>Adobe Research</strong>, College Park, MD, May. 2026 – Aug. 2026<br>
-    Research Intern: On-Device Language Model
+    Research Intern: On-Device Agentic System
   </div>
   <img src="/static/assets/img/Adobe.webp" alt="Adobe logo" style="width:63px; height:auto; object-fit:contain; display:block; align-self:center; vertical-align:middle;" />
 </div>

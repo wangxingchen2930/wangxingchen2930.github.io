@@ -2,17 +2,19 @@
 
 <strong>(Multi-Modal) Language Model:</strong>
 
+- Tianci Liu, Zihan Dong, Tianchun Li, Yi-Chung Chen, Qiming Cao, <strong>Xingchen Wang</strong>, Shiyang Wang, Zichen Miao, Linjun Zhang, Haoyu Wang, Jing Gao, "Hybrid-Policy Self-Editing for Composable Unstructured Knowledge Editing." <strong>Under Review. </strong> [[Paper]](https://arxiv.org/pdf/2608.11660) 
+
 - Tianchun Li, Haochen Liu, Vishwa Pardeshi, <strong>Xingchen Wang</strong>, Tianci Liu, Huijun Zhao, Wei Fan, Jing Gao, "LegalDrill: Diagnosis-Driven Synthesis for Legal Reasoning in Small Language Models." <strong>In Proceedings of the Association for Computational Linguistics (ACL) Industry Track, 2026. </strong> [[Paper]](https://arxiv.org/pdf/2604.23809) 
 
 - Tianchun Li, Tianci Liu, <strong>Xingchen Wang</strong>, Rongzhe Wei, Pan Li, Lu Su, Jing Gao, "Towards Universal Debiasing for Language Models-based Tabular Data Generation." <strong>In Findings of the Association for Computational Linguistics (EMNLP), 2025. </strong> [[Paper]](https://arxiv.org/pdf/2509.16475)
 
-- Feijie Wu, Xiaoze Liu, Haoyu Wang, <strong>Xingchen Wang</strong>, Lu Su, Jing Gao, ”Towards Federated RLHF with Aggregated Client Preference for LLMs.” <strong>International Conference on Learning Representations (ICLR), 2025.</strong> [[Paper]](https://arxiv.org/pdf/2407.03038)
 
 
 <strong>Federated Learning:</strong>
 
 - <strong>Xingchen Wang*</strong>, Feijie Wu*, Chenglin Miao, Tianchun Li, Haoyu Hu, Qiming Cao, Jing Gao, Lu Su, "Towards Privacy-Preserving and Heterogeneity-aware Split Federated Learning via Probabilistic Masking." <strong>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026.</strong> [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3770854.3780255) (<strong style="color:red;">Oral Presentation</strong>)
 
+- Feijie Wu, Xiaoze Liu, Haoyu Wang, <strong>Xingchen Wang</strong>, Lu Su, Jing Gao, ”Towards Federated RLHF with Aggregated Client Preference for LLMs.” <strong>International Conference on Learning Representations (ICLR), 2025.</strong> [[Paper]](https://arxiv.org/pdf/2407.03038)
 
 - Feijie Wu, <strong>Xingchen Wang</strong>, Yaqing Wang, Tianci Liu, Lu Su, Jing Gao, ”FIARSE: Model-Heterogeneity Federated Learning via Importance-Aware Submodel Extraction.” <strong>Advances in Neural Information Processing Systems (NeurIPS), 2024.</strong> [[Paper]](https://arxiv.org/pdf/2407.19389)
 
